@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0326-power-of-three) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
