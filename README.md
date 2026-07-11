@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0001-two-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0326-power-of-three) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
