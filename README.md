@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0796-rotate-string) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0242-valid-anagram) |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0136-single-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
