@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0049-group-anagrams) |
+| [0171-excel-sheet-column-number](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0796-rotate-string) |
 ## String Matching
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0007-reverse-integer) |
+| [0171-excel-sheet-column-number](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0326-power-of-three) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
