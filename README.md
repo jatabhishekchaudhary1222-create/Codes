@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0217-contains-duplicate) |
+| [1331-rank-transform-of-an-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1331-rank-transform-of-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0242-valid-anagram) |
+| [1331-rank-transform-of-an-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1331-rank-transform-of-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## String
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0242-valid-anagram) |
+| [1331-rank-transform-of-an-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1331-rank-transform-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
