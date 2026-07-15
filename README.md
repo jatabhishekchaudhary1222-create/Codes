@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0007-reverse-integer) |
 | [0171-excel-sheet-column-number](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0326-power-of-three) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0003-longest-substring-without-repeating-characters) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
