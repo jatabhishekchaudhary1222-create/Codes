@@ -4,11 +4,13 @@ class Solution(object):
         :type arr: List[int]
         :rtype: List[int]
         """
-        a=sorted(set(arr))
+        new=sorted(set(arr))
         d={}
-        for i,num in enumerate(a):
-            d[num]=i+1
+        for i,k in enumerate(new):
+            d[k]=i+1
         ans=[]
-        for num in arr:
-            ans.append(d[num])
+        for i in arr:
+            ans.append(d[i])
         return ans
+
+            
