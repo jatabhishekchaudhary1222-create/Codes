@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2574-left-and-right-sum-differences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0007-reverse-integer) |
 | [0171-excel-sheet-column-number](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0326-power-of-three) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
