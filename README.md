@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0283-move-zeroes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
