@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
