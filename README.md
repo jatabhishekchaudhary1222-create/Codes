@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1331-rank-transform-of-an-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1331-rank-transform-of-an-array) |
 ## Bit Manipulation
 |  |
@@ -126,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0704-binary-search) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
