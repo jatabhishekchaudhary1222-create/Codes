@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2574-left-and-right-sum-differences) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1331-rank-transform-of-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1331-rank-transform-of-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
