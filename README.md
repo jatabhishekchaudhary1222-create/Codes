@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1331-rank-transform-of-an-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0560-subarray-sum-equals-k) |
 | [2574-left-and-right-sum-differences](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2574-left-and-right-sum-differences) |
 ## Greedy
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bit Manipulation
