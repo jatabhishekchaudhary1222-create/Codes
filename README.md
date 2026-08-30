@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2574-left-and-right-sum-differences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
