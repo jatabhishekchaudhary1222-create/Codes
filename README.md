@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0049-group-anagrams) |
 | [0171-excel-sheet-column-number](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0796-rotate-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1331-rank-transform-of-an-array) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -176,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1672-richest-customer-wealth) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
