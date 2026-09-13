@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0835-image-overlap) |
 | [0905-sort-array-by-parity](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0835-image-overlap) |
 | [1672-richest-customer-wealth](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1672-richest-customer-wealth) |
 ## Queue
 |  |
