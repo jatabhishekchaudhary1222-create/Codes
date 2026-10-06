@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0678-valid-parenthesis-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0796-rotate-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0678-valid-parenthesis-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -219,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
