@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0326-power-of-three) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0678-valid-parenthesis-string) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
