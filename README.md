@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0905-sort-array-by-parity) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -234,5 +235,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0203-remove-linked-list-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
