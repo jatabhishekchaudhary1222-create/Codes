@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2574-left-and-right-sum-differences) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3536-maximum-product-of-two-digits) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0704-binary-search) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
 |  |
 | ------- |
