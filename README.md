@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0007-reverse-integer) |
+| [0089-gray-code](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0412-fizz-buzz) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0137-single-number-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0141-linked-list-cycle) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
