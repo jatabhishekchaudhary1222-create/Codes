@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3499-maximize-active-section-with-trade-i) |
 ## String Matching
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jatabhishekchaudhary1222-create/Codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
